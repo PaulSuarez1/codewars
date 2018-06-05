@@ -1,1 +1,1 @@
-# codewars
+# This is where I will be sharing all of my code wars katas.
